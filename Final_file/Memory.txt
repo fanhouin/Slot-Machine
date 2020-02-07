@@ -1,0 +1,5 @@
+Memory Size¡G
+
+	12 bit
+
+	100800 bit
