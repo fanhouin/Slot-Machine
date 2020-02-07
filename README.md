@@ -1,5 +1,5 @@
 
-﻿# Slot-Machine
+# Slot-Machine
  
  
 ## 設計概念
