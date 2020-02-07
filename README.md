@@ -1,7 +1,10 @@
 
 # Slot-Machine
  
- 
+## Demo Video
+https://www.youtube.com/watch?v=AVsElYq_HAM
+
+
 ## 設計概念
 一個令人上癮的遊戲，裏面包含的元素有：令人上癮、有趣、技術和運氣的成分 、能夠賺錢。
 
